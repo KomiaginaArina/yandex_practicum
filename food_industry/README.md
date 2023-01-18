@@ -28,4 +28,4 @@
 * seats — количество посадочных мест.
 
 ## Навыки и инструменты:
-#### Python, Pandas, Seaborn, Plotly, Визуализация данных
+#### Python, Pandas, Seaborn, Plotly, folium, Визуализация данных
